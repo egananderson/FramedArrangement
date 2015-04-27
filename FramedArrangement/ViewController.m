@@ -35,8 +35,8 @@
     
     //[self layoutSquares];
     //[self layoutHorizontalRectangles];
-    //[self layoutVerticalRectangles];
-    [self layoutDiagonalSquares];
+    [self layoutVerticalRectangles];
+    //[self layoutDiagonalSquares];
 }
 
 - (void)layoutSquares {
